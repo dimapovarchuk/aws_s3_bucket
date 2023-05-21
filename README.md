@@ -23,5 +23,19 @@
 <img width="960" alt="image" src="https://github.com/dimapovarchuk/jenkins_aws_s3_static_site/assets/52627259/5074f572-bf1b-49c0-936a-10cdd545ff56">
 <img width="960" alt="image" src="https://github.com/dimapovarchuk/jenkins_aws_s3_static_site/assets/52627259/4b40cf21-0ac7-4a2d-afb6-ba78506fd4a9">
 
-    
+### Changing index.html in Github repository ...
+<img width="960" alt="image" src="https://github.com/dimapovarchuk/jenkins_aws_s3_static_site/assets/52627259/8fc2c54c-2797-460b-b5e0-d56a856160a9">
+<img width="960" alt="image" src="https://github.com/dimapovarchuk/jenkins_aws_s3_static_site/assets/52627259/c937a713-39b1-4965-84b9-b543a7f4b473">
+<img width="960" alt="image" src="https://github.com/dimapovarchuk/jenkins_aws_s3_static_site/assets/52627259/e674b424-6acd-438e-aaf0-c1160d1281f1">
+<img width="959" alt="image" src="https://github.com/dimapovarchuk/jenkins_aws_s3_static_site/assets/52627259/66824a3f-f75f-4566-ae26-6aa00f177ce4">
+
+### Running Jenkins Pipeline ...
+<img width="960" alt="image" src="https://github.com/dimapovarchuk/jenkins_aws_s3_static_site/assets/52627259/014ed1ed-5bed-4d85-b399-c159aa3d2776">
+<img width="958" alt="image" src="https://github.com/dimapovarchuk/jenkins_aws_s3_static_site/assets/52627259/d76295b9-633c-4a8b-984b-d8a767cb2db3">
+<img width="960" alt="image" src="https://github.com/dimapovarchuk/jenkins_aws_s3_static_site/assets/52627259/2282703c-6519-4330-8e56-f6141a7cd3b3">
+<img width="957" alt="image" src="https://github.com/dimapovarchuk/jenkins_aws_s3_static_site/assets/52627259/70f8a88f-21c2-4fe8-86c1-651e05f26b0f">
+
+### Checking S3 bucket ...
+<img width="960" alt="image" src="https://github.com/dimapovarchuk/jenkins_aws_s3_static_site/assets/52627259/f242865b-2725-4d40-8d78-623c4a4aca57">
+
     
